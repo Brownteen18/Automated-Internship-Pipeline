@@ -1,0 +1,13 @@
+# Environments
+.env
+
+# n8n / Node
+node_modules/
+n8n_data/
+postgres_data/
+
+# Python / Custom APIs
+__pycache__/
+*.pyc
+venv/
+.venv/
